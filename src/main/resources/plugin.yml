@@ -1,0 +1,7 @@
+name: Flatroad
+version: @version@
+main: io.github.relapercrystal.flatroad.Flatroad
+api-version: 1.16
+prefix: FlatRoad
+authors: [ RelaperCrystal ]
+description: Flat Road utilties for Public Server
